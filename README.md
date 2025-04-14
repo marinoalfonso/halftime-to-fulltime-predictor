@@ -10,6 +10,7 @@ This project investigates the predictive power of first-half football statistics
 
 The analysis is based on two datasets:
 - `df_events`: Event-by-event data for every match, including actions like passes, shots, and tackles with coordinates and contextual info.
+  The full dataset (~900MB) is available [here](https://drive.google.com/file/d/16lFAesb_FKpVF8jMg8jLmi0XSZ-KVnmA/view?usp=share_link).
 - `df_agg`: Aggregate match information including final score, teams, matchday, and kickoff time.
 
 A variety of new tables were created:
