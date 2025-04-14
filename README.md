@@ -76,6 +76,8 @@ These results provide an empirical basis for understanding the dynamics of footb
 
 In an era where data analysis is transforming the understanding of football, this study demonstrates that by combining traditional statistics with advanced machine learning techniques, it is possible to reveal hidden patterns that govern the evolution of matches, opening new perspectives for both tactical analysis and strategic decisions.
 
+![Model Comparison](visualizations/model_comparison_with_goals_vs_without.png)
+
 ---
 
 ## ⚙️ Tech Stack
