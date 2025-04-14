@@ -25,6 +25,11 @@ The project is structured in three phases:
 
 ### 1. Descriptive Analysis
 Initial exploration through visualizations and metrics to understand team characteristics, game trends, and the distribution of key statistics. We emphasize comparisons between first and second half performances.
+#### Example viz
+![Model Comparison](visualizations/ptsDistr_corrMatrix.png)
+![Model Comparison](visualizations/topScorers.png)
+![Model Comparison](visualizations/pressurezone.png)
+
 
 ### 2. Feature Engineering
 Raw event data is transformed into team-level aggregates. First-half statistics are extracted and compared to full-match data to identify early-game patterns with predictive potential.
