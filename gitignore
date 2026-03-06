@@ -1,0 +1,47 @@
+# ── Data files (too large for GitHub) ────────────────────────────────────────
+data/*.csv
+data/*.json
+data/*.parquet
+
+# ── Jupyter checkpoints ───────────────────────────────────────────────────────
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDEs ──────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Output figures (reproducible on execution) ────────────────────────────────
+# Comment out these lines if you want to commit pre-rendered figures
+# output/figures/
+
+# ── Fonts (download separately from Google Fonts) ────────────────────────────
+fonts/
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
