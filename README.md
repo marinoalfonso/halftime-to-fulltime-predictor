@@ -33,11 +33,11 @@ halftime-to-fulltime-predictor/
 │   ├── download_data.py                   # Script to download StatsBomb data
 │   └── README.md                          # Data documentation
 │
-├── output/
-│   └── figures/                           # All plots saved here on execution
+├── visualizations/                        # All plots saved here on execution
+│                            
 │
 ├── assets/
-│   └── logos/                             # Optional: team logo PNGs
+│   └── teams_logos/                             # Optional: team logo PNGs
 │
 ├── fonts/                                 # Optional: Teko font family (.ttf)
 │
